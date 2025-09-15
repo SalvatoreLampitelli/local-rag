@@ -2,4 +2,7 @@
 .DS_Store
 backup
 chroma
+/chroma_test
+sqlite_test.db
+.test_rag.py
 /data/*
